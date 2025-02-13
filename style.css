@@ -1,0 +1,55 @@
+body {
+    background-color: #fff;
+}
+
+#ostrich {
+    width: 250px;
+}
+
+img {
+    width: 250px;
+}
+
+#logo {
+    width: 100px;
+}
+
+#firstrow,
+#secondrow {
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
+#cholata {
+    width: 250px;
+}
+
+p {
+    color: rgb(100, 0, 5);
+}
+
+#seven-up {
+    width: 200px;
+}
+
+img {
+    width: 250px;
+}
+body {
+    background-color: #fff;
+}
+
+#logo {
+    width: 100px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+p {
+    color: rgb(100, 0, 5);
+}
